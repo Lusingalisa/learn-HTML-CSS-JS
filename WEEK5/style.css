@@ -9,3 +9,8 @@ div {
 p {
     color: rgb(17, 179, 11);
 }
+#big-heading{
+    text-transform: uppercase;
+    font-size: 30px;
+    color:rgb(14, 14, 103);
+}
