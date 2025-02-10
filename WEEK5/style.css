@@ -18,3 +18,12 @@ p {
     color:brown;
     font-size: 20px;
 }
+
+/* COLORS
+-string
+-RGB(255,0,43)
+-RGBA(22,0,9,0.5) less than 1 it is opaque, A is alpha, GIVES YOU ABILITY TO CONTROL THE OPACITY OF YOUR COLORS
+-HSL<Hue Saturation and Lighting> (22,33,70)
+-HSLA (22,33,70,0.8)
+-HASH : #4a534
+-CYMK */
